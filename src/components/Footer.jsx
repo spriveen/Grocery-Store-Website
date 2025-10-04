@@ -38,13 +38,13 @@ const Footer = () => {
             </div>
             <div>
                 <h3 className='text-xl font-bold mb-4'>Contact</h3>
-                <p className='mb-2'>123 Grocery St, Food City</p>
-                <p className='mb-2'>Phone: (123) 456-7890</p>
+                <p className='mb-2'>Nugegoda,Colombo </p>
+                <p className='mb-2'>Phone: (71) 456-7890</p>
                 <p className='mb-2'>Email: info@freshmart.com</p>
             </div>
         </div>
         <div className='mt-8 pt-8 border-t border-gray-700 text-center'>
-            <p>&copy; {new Date().getFullYear()} FreshMart. All rights reserved</p>
+            <p>&copy; {new Date().getFullYear()}Riveen_Official. All rights reserved</p>
         </div>
       </div>
     </footer>
